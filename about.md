@@ -8,7 +8,7 @@ Hi, I am Allwin. I am a computer science student and a programmer by profession.
 
 ### More Information
 
-* Education
+* #### Education
 
 | Degree  | Institution | percentage |
 |---------|:-----------:|-----------:|
@@ -16,7 +16,7 @@ Hi, I am Allwin. I am a computer science student and a programmer by profession.
 |HSC|Montfort matric higher secondary school, Ariyalur | 97 |
 | B.E CSE | St. Joseph's college of engineering, Chennai | 8.2 CGPA |
 
-* Residence
+* #### Residence
 
 
 330, Fathima nagar 2nd street,
