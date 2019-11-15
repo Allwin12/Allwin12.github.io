@@ -14,6 +14,7 @@ Hi, I am Allwin. I am a computer science student and a programmer by profession.
 |---------|:-----------:|-----------:|
 |SSLC     |Montfort matric higher secondary school, Ariyalur| 98.6  |
 |HSC|Montfort matric higher secondary school, Ariyalur | 97 |
+| B.E CSE | St. Joseph's college of engineering, Chennai | 8.2 CGPA |
 
 ### Contact me
 
