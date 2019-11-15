@@ -10,6 +10,9 @@ Hi, I am Allwin. I am a computer science student and a programmer by profession.
 
 * Education
 
+| Degree  | Institution | percentage |
+|---------|:-----------:|-----------:|
+
 ### Contact me
 
 [allwindicaprio@gmail.com](mailto:allwindicaprio@gmail.com)
