@@ -17,6 +17,8 @@ Hi, I am Allwin. I am a computer science student and a programmer by profession.
 | B.E CSE | St. Joseph's college of engineering, Chennai | 8.2 CGPA |
 
 * Residence
+
+
 330, Fathima nagar 2nd street,
 NK Road, Aliza Taikal
 Thanjavur,
