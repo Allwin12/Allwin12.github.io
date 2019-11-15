@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi, I am Allwin. I am a computer science student and a programmer by profession. 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+* Education
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[allwindicaprio@gmail.com](mailto:allwindicaprio@gmail.com)
