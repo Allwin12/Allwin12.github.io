@@ -13,6 +13,8 @@ Hi, I am Allwin. I am a computer science student and a programmer by profession.
 | Degree  | Institution | percentage |
 |---------|:-----------:|-----------:|
 |SSLC     |Montfort matric higher secondary school, Ariyalur| 98.6  |
+|HSC|Montfort matric higher secondary school, Ariyalur | 97 |
+
 ### Contact me
 
 [allwindicaprio@gmail.com](mailto:allwindicaprio@gmail.com)
