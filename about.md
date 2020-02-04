@@ -14,6 +14,7 @@ Hi, I am Allwin. I am a computer science student and a programmer by profession.
   * B.E in CSE from St. Joseph's college of engineering, Chennain with 8.2 CGPA
 
 * #### Work and experience
+<img src="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/work-at-home-jobs-website-tester-1560284190.jpg">
   * Ionixx technologies, Chennai (Mar 2019 - present)
   
 * #### Residence
