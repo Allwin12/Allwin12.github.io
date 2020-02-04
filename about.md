@@ -24,7 +24,7 @@ Hi, I am Allwin. I am a computer science student and a programmer by profession.
 NK Road, Aliza Taikal
 Thanjavur,
 Tamilnadu - 613001
-### Contact me
+### Contact me <i class="fa fa-address-book" style="font-size:36px"></i>
 
 * [allwindicaprio@gmail.com](mailto:allwindicaprio@gmail.com)
 * +91 979168465
