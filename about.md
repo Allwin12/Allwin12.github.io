@@ -13,6 +13,9 @@ Hi, I am Allwin. I am a computer science student and a programmer by profession.
   * HSC from Montfort, Ariyalur with 97%
   * B.E in CSE from St. Joseph's college of engineering, Chennain with 8.2 CGPA
 
+* #### Work and experience
+  * Ionixx technologies, Chennai (Mar 2019 - present)
+  
 * #### Residence
 
 
