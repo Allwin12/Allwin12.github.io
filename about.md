@@ -26,5 +26,5 @@ Thanjavur,
 Tamilnadu - 613001
 ### Contact me <i class="fa fa-address-book" style="font-size:36px; color:#15ABF7"></i>
 
-* [allwindicaprio@gmail.com](mailto:allwindicaprio@gmail.com)
+<i class="fa fa-envelope" aria-hidden="true"></i> [allwindicaprio@gmail.com](mailto:allwindicaprio@gmail.com)
 * +91 979168465
