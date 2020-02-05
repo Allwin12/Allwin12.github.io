@@ -18,6 +18,11 @@ Hi, I am Allwin. I am a computer science student and a programmer by profession.
 * #### Languages known
   * C, C++
   * Python
+  * HTML, CSS, Javascript
+* #### Frameworks
+  * Django
+  * Flask
+  * Git
 
 * #### Residence
 
