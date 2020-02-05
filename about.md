@@ -15,18 +15,10 @@ Hi, I am Allwin. I am a computer science student and a programmer by profession.
 
 * #### Work and experience
   * Ionixx technologies, Chennai (Mar 2019 - present)
-  
 * #### Languages known
- * C
- * C++
- * Python
- * HTML, Javascript, CSS
+  * C, C++
+  * Python
 
-* #### Frameworks known
- * Git 
- * Django
- * Flask
- 
 * #### Residence
 
 
